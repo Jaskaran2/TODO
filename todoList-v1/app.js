@@ -47,7 +47,7 @@ const listSchema=new mongoose.Schema({
 });
 
 
-const List=mongoose.model("List", listSchema)
+const List=mongoose.model("List", listSchema);
 
 //--------------------------------------------------------------------------------------------------------------------
 
